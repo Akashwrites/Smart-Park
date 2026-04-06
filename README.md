@@ -1,10 +1,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
-# 🚗 Smart-Parking (The Airbnb for Parking)
+# Smart-Parking (The Airbnb for Parking)
 
 **Smart-Parking** is a dual-sided marketplace that connects drivers with private parking spot owners in real-time. It solves the urban parking crisis by allowing landowners to monetize unused space while giving drivers a seamless way to find and book guaranteed parking spots.
 
-## 💡 The Idea
+##  Idea
 
 The core concept is to digitize the parking experience:
 1.  **For Drivers**: No more driving around in circles. Find a spot on the map, book it for a specific duration, and navigate directly to it.
@@ -42,7 +42,7 @@ The booking Logic in `/app/api/bookings` handles:
 
 ---
 
-## 🏗️ Tech Stack
+##  Tech Stack
 
 -   **Framework**: [Next.js 16](https://nextjs.org/) (App Router)
 -   **Language**: TypeScript
@@ -55,7 +55,7 @@ The booking Logic in `/app/api/bookings` handles:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```bash
 ├── app
@@ -69,7 +69,7 @@ The booking Logic in `/app/api/bookings` handles:
 └── public           # Static assets
 ```
 
-## 🚀 Getting Started
+##  Getting Started
 
 1.  **Clone the repository**:
     ```bash
