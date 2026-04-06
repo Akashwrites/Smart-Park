@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 # Smart-Parking (The Airbnb for Parking)
 
 **Smart-Parking** is a dual-sided marketplace that connects drivers with private parking spot owners in real-time. It solves the urban parking crisis by allowing landowners to monetize unused space while giving drivers a seamless way to find and book guaranteed parking spots.
